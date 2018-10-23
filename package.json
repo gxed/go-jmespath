@@ -1,0 +1,16 @@
+{
+  "author": "jmespath",
+  "bugs": {
+    "url": "https://github.com/jmespath/go-jmespath/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/jmespath/go-jmespath"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "Apache-2.0",
+  "name": "go-jmespath",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.2.2"
+}
+
